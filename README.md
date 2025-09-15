@@ -1,2 +1,2 @@
-# HerramientasComputacionales
-Primer ejemplo de repositorio
+# Herramientas Computacionales
+Este repositorio es tan solo un ejemplo simple.
